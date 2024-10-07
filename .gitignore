@@ -1,2 +1,4 @@
 # Ignore the 'data' directory
 data/
+# Ignore the '.ipynb_checkpoints' file
+.ipynb_checkpoints
